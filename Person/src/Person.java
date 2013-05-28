@@ -1,4 +1,4 @@
-import java.applet.*;
+ import java.applet.*;
 import java.util.*;
 
 //make some changes
@@ -6,7 +6,7 @@ import java.util.*;
 
 // what diff
 
-
+//add something
 
 public class Person{  
 	protected String myName;
