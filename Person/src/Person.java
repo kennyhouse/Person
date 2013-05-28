@@ -4,9 +4,7 @@ import java.util.*;
 //make some changes
 //make more changes
 
-// what diff
 
-//how about now
 
 public class Person{  
 	protected String myName;
