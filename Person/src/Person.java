@@ -2,6 +2,8 @@ import java.applet.*;
 import java.util.*;
 
 //make some changes
+//make more changes
+
 
 public class Person{  
 	protected String myName;
