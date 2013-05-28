@@ -6,7 +6,7 @@ import java.util.*;
 
 // what diff
 
-//add something
+//how about now
 
 public class Person{  
 	protected String myName;
